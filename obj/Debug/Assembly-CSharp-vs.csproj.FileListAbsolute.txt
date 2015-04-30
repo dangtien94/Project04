@@ -1,0 +1,16 @@
+G:\Projects\Project04\Temp\bin\Debug\Assembly-CSharp.dll
+G:\Projects\Project04\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\Projects\Project04\Temp\bin\Debug\UnityEditor.dll
+G:\Projects\Project04\Temp\bin\Debug\UnityEngine.dll
+G:\Projects\Project04\Temp\bin\Debug\UnityEngine.UI.dll
+G:\Projects\Project04\Temp\bin\Debug\Mono.Cecil.dll
+G:\Projects\Project04\Temp\bin\Debug\Unity.DataContract.dll
+G:\Projects\Project04\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\Projects\Project04\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+G:\Projects\Project04\obj\Debug\Assembly-CSharp.dll
+G:\Projects\Project04\obj\Debug\Assembly-CSharp.pdb
+G:\Projects\Project04\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\Projects\Project04\Temp\bin\Debug\Unity.CecilTools.dll
+G:\Projects\Project04\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+G:\Projects\Project04\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+G:\Projects\Project04\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
